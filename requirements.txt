@@ -1,4 +1,4 @@
-altair==4.1.0
+altair
 astor==0.8.1
 attrs==19.3.0
 backcall==0.2.0
@@ -89,4 +89,3 @@ widgetsnbextension==3.5.1
 wincertstore==0.2
 wordcloud==1.7.0
 zipp==3.1.0
-
